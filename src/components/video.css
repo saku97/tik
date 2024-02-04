@@ -1,0 +1,22 @@
+.video {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.video__player {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.video__username {
+  margin-top: 10px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.video__caption {
+  font-size: 14px;
+  margin-top: 5px;
+}
